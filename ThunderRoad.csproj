@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\..\..\source\repos\DishonoredSpells\DishonoredSpells\bin\Debug\0Harmony.dll</HintPath>
+    </Reference>
     <Reference Include="BetterStreamingAssets">
       <HintPath>..\..\..\source\repos\DishonoredSpells\DishonoredSpells\bin\Debug\BetterStreamingAssets.dll</HintPath>
     </Reference>
@@ -1012,6 +1015,8 @@
     <Compile Include="PlayerTest.cs" />
     <Compile Include="PlayerTestHand.cs" />
     <Compile Include="PlayerWaist.cs" />
+    <Compile Include="PossessionSpell.cs" />
+    <Compile Include="PossessionSpellTest.cs" />
     <Compile Include="Pointer.cs" />
     <Compile Include="PointerEventData.cs" />
     <Compile Include="PointerInputModule.cs" />
