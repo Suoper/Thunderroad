@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\..\..\source\repos\DishonoredSpells\DishonoredSpells\bin\Debug\0Harmony.dll</HintPath>
+    </Reference>
     <Reference Include="BetterStreamingAssets">
       <HintPath>..\..\..\source\repos\DishonoredSpells\DishonoredSpells\bin\Debug\BetterStreamingAssets.dll</HintPath>
     </Reference>
