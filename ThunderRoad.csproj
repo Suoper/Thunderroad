@@ -1015,6 +1015,8 @@
     <Compile Include="PlayerTest.cs" />
     <Compile Include="PlayerTestHand.cs" />
     <Compile Include="PlayerWaist.cs" />
+    <Compile Include="PossessionSpell.cs" />
+    <Compile Include="PossessionSpellTest.cs" />
     <Compile Include="Pointer.cs" />
     <Compile Include="PointerEventData.cs" />
     <Compile Include="PointerInputModule.cs" />
